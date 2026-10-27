@@ -1,58 +1,38 @@
 # Diogo Carvalho
 
-**`Desenvolvedor Front-end`**
+Desenvolvo projetos de portfólio para praticar construção de interfaces, APIs e automações. Meu foco atual é conectar uma experiência de uso clara a regras de negócio bem organizadas e documentação que permita reproduzir o projeto.
 
-### 🤖 Linguagens e Tecnologias
+[Perfil no GitHub](https://github.com/Diogocvlh) · [Projeto FieldOps](https://github.com/Diogocvlh/fieldops)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## Tecnologias em prática
 
-<br/>
-<br/>
+| Área | Tecnologias presentes nos meus projetos |
+| --- | --- |
+| Interfaces web | HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS |
+| APIs | Java, Spring Boot, Python, FastAPI |
+| Dados | PostgreSQL, SQLite, persistência local no navegador |
+| Automação e ferramentas | Selenium, Git, GitHub Actions |
 
-### 📊 Estatísticas
+## Projetos
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+### [FieldOps](https://github.com/Diogocvlh/fieldops)
+
+Sistema de gerenciamento de ordens de serviço e equipes técnicas. Reúne dashboard, CRUD de ordens e técnicos, distribuição de atendimentos e relatórios.
+
+- Frontend em React e TypeScript.
+- API em Java com Spring Boot.
+- Modo de demonstração com dados fictícios e persistência no navegador.
+- Testes automatizados e documentação para execução local e evolução com PostgreSQL.
+
+### [AI Image Generator API](https://github.com/Diogocvlh/ai-image-generator-api)
+
+Protótipo de API de geração de imagens com FastAPI, PyTorch e Diffusers. Explora validação de requisições, parâmetros de inferência e execução local com GPU NVIDIA. A inferência e a compatibilidade do ambiente ainda precisam de validação em hardware real.
+
+## O que estou aprofundando
+
+- Organização modular de aplicações e separação entre interface, serviços e dados.
+- Validação, tratamento de erros e proteção de configurações sensíveis.
+- Testes automatizados e integração contínua.
+- Integração entre aplicações React, APIs Java e bancos relacionais.
+
+Os repositórios documentam o estado atual de cada projeto e seus próximos passos. Este repositório reúne minha apresentação; os códigos e instruções de execução estão nos projetos vinculados acima.
